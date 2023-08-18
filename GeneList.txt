@@ -5,4 +5,4 @@ expressed: Ngfr, Igfbp3, Sparc, Gcgr, Ndufa4l2, Tnfrsf11b, Tagln, Rgs4, Ttyh1, C
 expressed: Gm14964, Lrrn3, Gja1, Sprn, Inmt, Adm, Robo2, Vcam1, Loxl1, Tsc22d1, Htra3, Sox4, Sectm1a, Adamts5, Slc43a3, Apoc1, Gm13889, Qpct, Lpar1, Podn, Gem, Ackr4, Bmyc, Fcna, Lum, Ano1, Adamtsl2, Rspo3, Spon2
 
 >Myofibroblast
-expressed: Col1a1, Col1a2, Col3a1, Acta2, Reelin, CYGB
+expressed: Col1a1, Col1a2, Col3a1, Acta2, Reelin, Cygb
