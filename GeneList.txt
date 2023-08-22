@@ -1,5 +1,5 @@
 >PaHSC
-expressed: Ngfr, Igfbp3, Sparc, Gcgr, Ndufa4l2, Tnfrsf11b, Tagln, Rgs4, Ttyh1, Clca3a1, Clec4g, Rasl11a, Il34, Tmem178, Col14a1, Heyl, Prss23, Myl9, Tpm2, Lama1, Susd2, Fam84a, Gns, Alpl, Bcr, Pdgfrb, Klhl23, Mest, Ckb, Gpc6, Cyp4b1, Itgb3, Tbx2, Disp2, Serpina3g, Ccl2, Fhl2, Crip1, Rem1, Hilpda, Hsd11b1, Gja4, Myh11, Trib1, Matn2, Tpm1, Cxcl14, Phlda1, Procr, Cd248, Htra1, AW112010
+expressed: Ngfr, Igfbp3, Sparc, Gcgr, Ndufa4l2, Tnfrsf11b, Tagln, Rgs4, Ttyh1, Clca3a1, Clec4g, Rasl11a, Il34, Tmem178, Col14a1, Heyl, Prss23, Myl9, Tpm2, Lama1, Susd2, Gns, Alpl, Bcr, Pdgfrb, Klhl23, Mest, Ckb, Gpc6, Cyp4b1, Itgb3, Tbx2, Disp2, Serpina3g, Ccl2, Fhl2, Crip1, Rem1, Hilpda, Hsd11b1, Gja4, Myh11, Trib1, Matn2, Tpm1, Cxcl14, Phlda1, Procr, Cd248, Htra1, AW112010
 
 >CaHSC
 expressed: Lrrn3, Gja1, Sprn, Inmt, Adm, Robo2, Vcam1, Loxl1, Tsc22d1, Htra3, Sox4, Sectm1a, Adamts5, Slc43a3, Apoc1, Gm13889, Qpct, Lpar1, Podn, Gem, Ackr4, Bmyc, Fcna, Lum, Ano1, Adamtsl2, Rspo3, Spon2
